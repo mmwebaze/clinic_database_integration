@@ -1,0 +1,5 @@
+name: Clinic Database Integration
+type: module
+description: FPNTC module for integrating with a Clinic Database Integration
+core: 8.x
+package: fpntc
